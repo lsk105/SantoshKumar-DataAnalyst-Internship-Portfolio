@@ -29,7 +29,7 @@ Explore each task's code, documentation, and deliverables below.
 
 **Key skills:** Data cleaning, data quality checks, missing-value treatment, duplicate identification, and data preparation.
 
-**GitHub Repository:** [https://github.com/lsk105/ApexPlanet-Data-Wrangling-/tree/main](TASK_1_GITHUB_URL)
+**GitHub Repository:** [ Task 1 Data wrangling](https://github.com/lsk105/ApexPlanet-Data-Wrangling-)
 
 ### Task 2 — Exploratory Data Analysis & Business Intelligence
 
@@ -37,7 +37,7 @@ Explore each task's code, documentation, and deliverables below.
 
 **Key skills:** Exploratory Data Analysis (EDA), descriptive statistics, SQL business analysis, data visualization, and business intelligence.
 
-**GitHub Repository:** [https://github.com/lsk105/Apexplanet_EDA-Business-intelligence/tree/main](TASK_2_GITHUB_URL)
+**GitHub Repository:** [ Task 2_EDA ](https://github.com/lsk105/Apexplanet_EDA-Business-intelligence)
 
 ### Task 3 — Deep-Dive Analysis & Interactive Dashboarding
 
@@ -45,7 +45,7 @@ Explore each task's code, documentation, and deliverables below.
 
 **Key skills:** KPI development, sales analysis, segmentation, dashboard design, interactive filters, and business insight generation.
 
-**GitHub Repository:** [https://github.com/lsk105/Apexplanet-Task3-deepdive-analysis_dashboard/tree/main](TASK_3_GITHUB_URL)
+**GitHub Repository:** [ Task 3](https://github.com/lsk105/Apexplanet-Task3-deepdive-analysis_dashboard)
 
 **Dashboard Link:** [Add your published dashboard URL here, if available]
 
@@ -55,7 +55,7 @@ Explore each task's code, documentation, and deliverables below.
 
 **Key skills:** Python, Pandas, NumPy, SciPy, Matplotlib, Welch's t-test, p-value interpretation, confidence intervals, and business presentation.
 
-**GitHub Repository:** [https://github.com/lsk105/Apexplanet_Task4_Data_storytelling_Statistical-_Validation](TASK_4_GITHUB_URL)
+**GitHub Repository:** [Task 4 ](https://github.com/lsk105/Apexplanet_Task4_Data_storytelling_Statistical-_Validation)
 
 **Final Presentation:** [Open the PowerPoint file](presentation/ApexPlanet_Task4_Data_Storytelling_Statistical_Validation.pptx)
 
